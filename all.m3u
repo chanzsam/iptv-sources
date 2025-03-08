@@ -491,8 +491,8 @@ https://stream1.freetv.fun/8e434952b6a8493b509dd9acd21c65340ad750a5b079ee0300538
 https://stream1.freetv.fun/d11067c8e781ab75cb63cad3770daf01455c62030e3d4b382accf51673b866e8.m3u8
 #EXTINF:-1 tvg-name="CBS" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_82.jpg" group-title="Other",[BD]cbs
 https://stream1.freetv.fun/12d7b357a4a802fb619ab1f5456af898e802b0ce0f24fd2e074ac4b8a6b1fb02.m3u8
-#EXTINF:-1 tvg-name="CBS Action UK" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2015/11/28/large/20151128104403371880_38.jpg" group-title="Movies",[BD]CBS Action
-https://stream1.freetv.fun/9d5216b17897dd2ce4143b38b3cd691b78f3c7f264be580f1af22bbedc4581c4.ctv
+#EXTINF:-1 tvg-name="CBS Action UK" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2015/11/28/large/20151128104403371880_38.jpg" group-title="Movies",[SD]CBS Action
+https://stream1.freetv.fun/e86c1a533b656d9b3914458e4a5918745ceddb385983e06befbcd24c8d1273f8.ctv
 #EXTINF:-1 tvg-name="CBS NETWORK" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/09/17/large/20170917225055829014_84.jpg" group-title="Generic",[SD]yes network
 https://stream1.freetv.fun/28249eae8bddd41a4d696ed4a4019f251c93d23f4a80b53c74e0ebe2bd9062bd.m3u8
 #EXTINF:-1 tvg-name="CBS News" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/09/21/large/20220921003134675689_79.png" group-title="News",[HD]美国cbsnews
@@ -1452,7 +1452,7 @@ https://stream1.freetv.fun/f321a35cdd093250058343b771bb7e4d22f7522692b7d421ca5db
 #EXTINF:-1 tvg-name="MSJ TV" tvg-id="" tvg-country="Cambodia" tvg-language="Khmer" tvg-logo="https://epg.pw/media/images/channel/2021/06/26/large/20210626145931680291_31.png" group-title="News",[SD]mcj tv
 https://stream1.freetv.fun/a5d46ee6315cb11541aceebc7195e20e68f09a7aaadcaa6c58b922eeaac62d93.m3u8
 #EXTINF:-1 tvg-name="MTV Base" tvg-id="9449" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/13/large/20220413134806714625_30.png" group-title="Music",[SD]MTV Base
-https://stream1.freetv.fun/e6fbc9e7c3fbedeb47cf77e547a85a3d431a8823cf485fb74543b7e112c998e4.ctv
+https://stream1.freetv.fun/83a04c729b831ac1078a8508207119bc2fee626a43af76341045c6beb836881d.ctv
 #EXTINF:-1 tvg-name="MTV HD(Korea)" tvg-id="" tvg-country="United States" tvg-language="Korean" tvg-logo="https://epg.pw/media/images/channel/2017/11/12/large/20171112002356623871_27.png" group-title="Music",[HD]mtv lbn
 https://stream1.freetv.fun/4497b37d4d3f9ab2fc427ed10110e680de67e7d030730b5d94ec5bfe4b924c4a.m3u8
 #EXTINF:-1 tvg-name="MTV Live HD" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/10/27/large/20171027212332267177_57.png" group-title="Music",[BD]MTV LIVE
@@ -1639,7 +1639,7 @@ rtmp://212.0.213.132//NickJr
 https://stream1.freetv.fun/b4cef617b4a51bebd1d0455e51191e037d9a13c8e8b6abf65b8049be72b94c0a.ctv
 #EXTINF:-1 tvg-name="NickMusic" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126163604239747_36.jpg" group-title="Kids",[VGA]nickmusic usa
 https://stream1.freetv.fun/08e0d07db205685600345e043a70cb849a716d27b47bd4e28c929fe48aad0e55.m3u8
-#EXTINF:-1 tvg-name="Nickelodeon" tvg-id="12084" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/12/06/large/20221206203341880156_46.jpg" group-title="Kids",[HD]NICKELODEON
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-id="12084" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/12/06/large/20221206203341880156_46.jpg" group-title="Kids",[BD]NICKELODEON
 https://stream1.freetv.fun/28171a515b71c7a147b2697071e52b52f17dd97be1913e1edd3d9cc557653268.ctv
 #EXTINF:-1 tvg-name="Nicktoons CIS" tvg-id="" tvg-country="Russia" tvg-language="Russian" tvg-logo="https://epg.pw/media/images/channel/2024/04/04/large/20240404170350457530_44.png" group-title="Kids",[BD]nicktoons
 https://stream1.freetv.fun/000de17b430e5719cba41bb934916afc4a0663c9d527c7bdb9cfe34f7a3e519f.m3u8

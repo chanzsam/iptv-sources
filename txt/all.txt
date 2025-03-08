@@ -18,7 +18,7 @@ Movies,#genre#
 [HD]bbc_first,https://stream1.freetv.fun/f9fcfe98b97535d5358234e7da46afa57c57dcbbe08ceaae1eba97469c11e18f.m3u8
 [HD]BOO,https://stream1.freetv.fun/00edd03daa7e0a360dac988c54483dc52838ce9e3e8a036e9e4e308f8f19f6a3.ctv
 [BD]shemaroo_bollywood,https://stream1.freetv.fun/0c528476b75add0424dafbea2ef8b2d02632f077ecb44fe63246aaa204c38193.m3u8
-[BD]CBS_Action,https://stream1.freetv.fun/9d5216b17897dd2ce4143b38b3cd691b78f3c7f264be580f1af22bbedc4581c4.ctv
+[SD]CBS_Action,https://stream1.freetv.fun/e86c1a533b656d9b3914458e4a5918745ceddb385983e06befbcd24c8d1273f8.ctv
 [SD]cctv11,https://stream1.freetv.fun/616b4d014e0a73846bdb9ddddfdd777f9e0f2c132b2e00e12ad171e2081b0dbb.m3u8
 [VGA]cctv6,https://stream1.freetv.fun/74f09b564503549683e4d1da5f68a95f4d34337c3b48004415eec78a1ec0f489.ctv
 [BD]cctv8,https://stream1.freetv.fun/fe2385c77e93431d17fc9b53171c4c33b8a775d11fcc722eb3de7d43f8a28395.m3u8
@@ -1816,7 +1816,7 @@ Kids,#genre#
 [HD]on_kids,https://stream1.freetv.fun/a88394224f0ab6bedf798d48271231ddd4bf95ace35f59103a6651cb2f100d2a.ctv
 [BD]NICK_JR,https://stream1.freetv.fun/b4cef617b4a51bebd1d0455e51191e037d9a13c8e8b6abf65b8049be72b94c0a.ctv
 [VGA]nickmusic_usa,https://stream1.freetv.fun/08e0d07db205685600345e043a70cb849a716d27b47bd4e28c929fe48aad0e55.m3u8
-[HD]NICKELODEON,https://stream1.freetv.fun/28171a515b71c7a147b2697071e52b52f17dd97be1913e1edd3d9cc557653268.ctv
+[BD]NICKELODEON,https://stream1.freetv.fun/28171a515b71c7a147b2697071e52b52f17dd97be1913e1edd3d9cc557653268.ctv
 [BD]nicktoons,https://stream1.freetv.fun/000de17b430e5719cba41bb934916afc4a0663c9d527c7bdb9cfe34f7a3e519f.m3u8
 [BD]panc_tv,https://stream1.freetv.fun/629b78981ffb08cd9e8166ba05a48a95c2255b468118822552131e9399cd4c73.m3u8
 [BD]polo_tv,https://stream1.freetv.fun/de94c17e59d62a9894fdd3ff815d9abb86b3576d6ea2cd58756843679afb4e15.m3u8
@@ -1873,7 +1873,7 @@ Music,#genre#
 [BD]shop_channel,https://stream1.freetv.fun/c672b6756311aec26be4050520eb1a6e4f9b7ac5d896988e2dc58ac51c2db55b.m3u8
 [SD]muzzik_hiphop,https://stream1.freetv.fun/d2e3972a4a965b9930036a0414220e00438e6d80045fcf0e8188271abaac7625.m3u8
 [VGA]mezzo,https://stream1.freetv.fun/22644b6b17b378a9a1998ecd8a7132d5a1ea99884fda7b44872ae1a878cb06a2.m3u8
-[SD]MTV_Base,https://stream1.freetv.fun/e6fbc9e7c3fbedeb47cf77e547a85a3d431a8823cf485fb74543b7e112c998e4.ctv
+[SD]MTV_Base,https://stream1.freetv.fun/83a04c729b831ac1078a8508207119bc2fee626a43af76341045c6beb836881d.ctv
 [HD]mtv_lbn,https://stream1.freetv.fun/4497b37d4d3f9ab2fc427ed10110e680de67e7d030730b5d94ec5bfe4b924c4a.m3u8
 [BD]MTV_LIVE,https://stream1.freetv.fun/3ab10b167f1eca02df858fc2def729de2272cc36b33a906e93fdaa2a740409d0.ctv
 [HD]mtv_live,https://stream1.freetv.fun/b3cdb6f76f83a37d3dd6777793d5c299c76de98d0c509d0d472a3ded813d4e8d.m3u8

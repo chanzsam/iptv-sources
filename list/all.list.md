@@ -250,7 +250,7 @@
 | 244 | [HD]beverly hills television 35 (720p) | stream1.freetv.fun | <https://stream1.freetv.fun/8e434952b6a8493b509dd9acd21c65340ad750a5b079ee0300538140a768d868.m3u8> |
 | 245 | [HD]3abn latino | stream1.freetv.fun | <https://stream1.freetv.fun/d11067c8e781ab75cb63cad3770daf01455c62030e3d4b382accf51673b866e8.m3u8> |
 | 246 | [BD]cbs | stream1.freetv.fun | <https://stream1.freetv.fun/12d7b357a4a802fb619ab1f5456af898e802b0ce0f24fd2e074ac4b8a6b1fb02.m3u8> |
-| 247 | [BD]CBS Action | stream1.freetv.fun | <https://stream1.freetv.fun/9d5216b17897dd2ce4143b38b3cd691b78f3c7f264be580f1af22bbedc4581c4.ctv> |
+| 247 | [SD]CBS Action | stream1.freetv.fun | <https://stream1.freetv.fun/e86c1a533b656d9b3914458e4a5918745ceddb385983e06befbcd24c8d1273f8.ctv> |
 | 248 | [SD]yes network | stream1.freetv.fun | <https://stream1.freetv.fun/28249eae8bddd41a4d696ed4a4019f251c93d23f4a80b53c74e0ebe2bd9062bd.m3u8> |
 | 249 | [HD]美国cbsnews | stream1.freetv.fun | <https://stream1.freetv.fun/a9b7106af2163fd72dc3334fd3bb31320998c0d118cc23db448768deec682ab1.m3u8> |
 | 250 | [BD]cbs reality | stream1.freetv.fun | <https://stream1.freetv.fun/394a517160ef6d29257c01bdd51744243479a0cebbab4302eba1dbad57a8dd5a.m3u8> |
@@ -730,7 +730,7 @@
 | 724 | [BD]cowboy movie channel | stream1.freetv.fun | <https://stream1.freetv.fun/23bcc3921c432ac028de2772a267aecb87ededc75d71a110cd2a1e076333aaa8.m3u8> |
 | 725 | [HD]new movies | stream1.freetv.fun | <https://stream1.freetv.fun/f321a35cdd093250058343b771bb7e4d22f7522692b7d421ca5dbe341e6828ed.m3u8> |
 | 726 | [SD]mcj tv | stream1.freetv.fun | <https://stream1.freetv.fun/a5d46ee6315cb11541aceebc7195e20e68f09a7aaadcaa6c58b922eeaac62d93.m3u8> |
-| 727 | [SD]MTV Base | stream1.freetv.fun | <https://stream1.freetv.fun/e6fbc9e7c3fbedeb47cf77e547a85a3d431a8823cf485fb74543b7e112c998e4.ctv> |
+| 727 | [SD]MTV Base | stream1.freetv.fun | <https://stream1.freetv.fun/83a04c729b831ac1078a8508207119bc2fee626a43af76341045c6beb836881d.ctv> |
 | 728 | [HD]mtv lbn | stream1.freetv.fun | <https://stream1.freetv.fun/4497b37d4d3f9ab2fc427ed10110e680de67e7d030730b5d94ec5bfe4b924c4a.m3u8> |
 | 729 | [BD]MTV LIVE | stream1.freetv.fun | <https://stream1.freetv.fun/3ab10b167f1eca02df858fc2def729de2272cc36b33a906e93fdaa2a740409d0.ctv> |
 | 730 | [HD]mtv live | stream1.freetv.fun | <https://stream1.freetv.fun/b3cdb6f76f83a37d3dd6777793d5c299c76de98d0c509d0d472a3ded813d4e8d.m3u8> |
@@ -824,7 +824,7 @@
 | 818 | [SD]nick jr | IPv4 直链 | <rtmp://212.0.213.132//NickJr> |
 | 819 | [BD]NICK JR | stream1.freetv.fun | <https://stream1.freetv.fun/b4cef617b4a51bebd1d0455e51191e037d9a13c8e8b6abf65b8049be72b94c0a.ctv> |
 | 820 | [VGA]nickmusic usa | stream1.freetv.fun | <https://stream1.freetv.fun/08e0d07db205685600345e043a70cb849a716d27b47bd4e28c929fe48aad0e55.m3u8> |
-| 821 | [HD]NICKELODEON | stream1.freetv.fun | <https://stream1.freetv.fun/28171a515b71c7a147b2697071e52b52f17dd97be1913e1edd3d9cc557653268.ctv> |
+| 821 | [BD]NICKELODEON | stream1.freetv.fun | <https://stream1.freetv.fun/28171a515b71c7a147b2697071e52b52f17dd97be1913e1edd3d9cc557653268.ctv> |
 | 822 | [BD]nicktoons | stream1.freetv.fun | <https://stream1.freetv.fun/000de17b430e5719cba41bb934916afc4a0663c9d527c7bdb9cfe34f7a3e519f.m3u8> |
 | 823 | [VGA]life tv | stream1.freetv.fun | <https://stream1.freetv.fun/5f700efed6f7eb308c7887d67a53596cf78758d1206ce31cb18a6ab5f133806a.m3u8> |
 | 824 | [SD]nile sport | stream1.freetv.fun | <https://stream1.freetv.fun/168f0a3d4c5bc868893c2a5fc29a375df1fdd955e61e8cb25f54370e052fc9fc.m3u8> |
@@ -1874,4 +1874,4 @@
 | 1868 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/472436881eaa1f9da21c5a3f6c9469bc2aee56b9867abcb163be70bee7c59d58.m3u8> |
 | 1869 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Sat Mar 08 2025 08:14:43 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Mar 08 2025 10:12:30 GMT+0000 (Coordinated Universal Time)**
