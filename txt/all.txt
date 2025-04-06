@@ -1280,6 +1280,7 @@ News,#genre#
 [BD]al_jazeera,https://stream1.freetv.fun/af16e13fc555e081b6dd57deec887d2dd12f2ccc23a6cf4c9e66eacf044c0a11.ctv
 [SD]al_jazeera_mubasher,https://stream1.freetv.fun/3332c3a20133c0e985a527c76c2f20c7d212dfb817bf76773c78cc7d92138918.m3u8
 [VGA]al_maghribia,https://stream1.freetv.fun/392eba0e246d1094558f112478f84352f9b25d7691039ed88b85911baf5be62c.m3u8
+[HD]al_masar,https://stream1.freetv.fun/b5203d89c5980fd912ae8a94fcb6915b059d6849bd40d43be5336cc571204527.m3u8
 [HD]nabaa_tv,https://stream1.freetv.fun/eff914bf7e1c6a1b296b416d96bc3c877e3359164e8e5fa9c37edb8d9b23d97f.m3u8
 [BD]al_resalah,https://stream1.freetv.fun/d2d8b5b0796f28c8b97bf9cce199d943a2bbdb9a17104a520c45e982a4465087.m3u8
 [HD]antena_3,https://stream1.freetv.fun/7c514e0e03b7cb643f003b92cf34116ebb2eaf054078b35ff60ddda630e5e2cd.m3u8
@@ -1324,7 +1325,7 @@ News,#genre#
 [HD]cnn_indonesia,https://stream1.freetv.fun/f191ec7cc112647770f9e08d5a19b774056a2504d9a03e331245253a336df324.m3u8
 [SD]russia_24_international,https://stream1.freetv.fun/5488fa746ac10189d7737e26b98e0b06b86efd875891429a6e8af14f2011771f.m3u8
 [HD]cnn_usa_(720p),https://stream1.freetv.fun/8f00cf1e1b9e5033eb0981c4133b321c3812c3bb977c3f497eb2762ca045a075.m3u8
-[BD]afv_en_español,https://stream1.freetv.fun/eb72c8a58f1f1910f427b8919e57067b99a32a3c1962f39315fe3fbd89dd8310.m3u8
+[HD]afv_en_español_(720p)_[not_24/7],https://stream1.freetv.fun/4f570d28949e431d4eef29824ef39425c9319fbb729dffc953ef58bb5c78fbc9.m3u8
 [BD]cpac_tv,https://stream1.freetv.fun/b68287fa6a974b85132e9ff7eaad6edce36c8920428bad38308d299910c2a69f.m3u8
 [BD]cartoonito,https://stream1.freetv.fun/30dd5a5d29ab82e05845f36e2982cd93c9e1c3bed0999a0c75d24f3259f89fb2.ctv
 [BD]dc_council_channel,https://stream1.freetv.fun/b3bce50c150ad79c4d321a7eec2900b391e180e1420db2a40fd562d84a0da73d.m3u8
