@@ -1855,13 +1855,14 @@ Kids,#genre#
 [BD]NICK_JR,https://stream1.freetv.fun/ca084bd8c7d83b828a2e1260679ad58690a84e31221805ad389933c69c41e5f7.m3u8
 [VGA]nickmusic_usa,https://stream1.freetv.fun/08e0d07db205685600345e043a70cb849a716d27b47bd4e28c929fe48aad0e55.m3u8
 [HD]NICKELODEON,https://stream1.freetv.fun/6a7e5c1e4b87124b2040d02d808b5559d78ccd8cdcd142d67d406a2e503e07da.m3u8
-[HD]nicktoons,https://stream1.freetv.fun/000de17b430e5719cba41bb934916afc4a0663c9d527c7bdb9cfe34f7a3e519f.m3u8
+[HD]nicktoons_east,https://stream1.freetv.fun/85f8925c3224130ae40333cb95c6d7506436faa75adfec5f6c4af1975acd1ffd.m3u8
 [HD]OKEY,https://stream1.freetv.fun/70cf4d1fba45a183e70e65e2dfb788f17894934bc9aef005a2abc4381c90a742.m3u8
 [BD]panc_tv,https://stream1.freetv.fun/629b78981ffb08cd9e8166ba05a48a95c2255b468118822552131e9399cd4c73.m3u8
 [HD]polo_tv,https://stream1.freetv.fun/8ca7f74a1eb0212b52dec9ce68df6d39a194d47b0a13b9cd97aecbf2050b8f58.m3u8
 [SD]巴西_retrô_cartoon,https://stream1.freetv.fun/84f5977d74ddb4e4c76345b67db946331e163c1d20ea77e35ac08948c0f3f12a.m3u8
 [BD]rcg_tv,https://stream1.freetv.fun/cdc84257adfdcb2be6b4e39d20e6d9e0d42de3224b7a3fac245662bb7844541a.m3u8
 [HD]on_music,https://stream1.freetv.fun/f0d6c3b1035aa8823f376df37c76f793a52a38857772b962ef5b7fc63fe2e1a3.ctv
+[BD]spacetoon_arabic,https://stream1.freetv.fun/8b93a9800d1740fec02f38db0c684b4e89d01acefba7db105149253fe397d806.m3u8
 [BD]tf1,https://stream1.freetv.fun/c7702af80baa1175738c7f8cabfc202852667f7a523200bff1c8356446b55076.m3u8
 [VGA]spacetoon,https://stream1.freetv.fun/e7538ba3ef158b5c8796ede528c28252cb404f9503b484f569661e9376fc1e3f.m3u8
 [BD]tv_rio,https://stream1.freetv.fun/f043aa11946416515719e9c82290156da21659210979d102adcad11941728e13.m3u8
