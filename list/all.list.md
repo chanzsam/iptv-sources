@@ -2029,4 +2029,4 @@
 | 2023 | [BD]龙华经典 *z | stream1.freetv.fun | <https://stream1.freetv.fun/60076bab2e9a827c1de98b9e0895a6341683789495e019610cef1eee0318cfab.ctv> |
 | 2024 | [HD]龙华电影 *wj | stream1.freetv.fun | <https://stream1.freetv.fun/9eea168bf2305a66b23da8ee026d20b36cdf2d6dca502822bd965aa5115b6fe4.ctv> |
 
-Updated at **Mon Jun 30 2025 06:25:30 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jun 30 2025 08:22:59 GMT+0000 (Coordinated Universal Time)**
