@@ -1986,4 +1986,4 @@
 | 1980 | [BD]龙华日韩 | stream1.freetv.fun | <https://stream1.freetv.fun/9c2920df490df6a08c307894de50ccb79ac68fb82eebf6b8d6e8f2b1a3dc3509.m3u8> |
 | 1981 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/c2275b572ec49684dc532efc606c5f6b264581f346379559e72ec2137c1ecb1d.m3u8> |
 
-Updated at **Wed Aug 20 2025 08:21:17 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Aug 20 2025 10:17:10 GMT+0000 (Coordinated Universal Time)**
