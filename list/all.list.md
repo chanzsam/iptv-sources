@@ -2020,4 +2020,4 @@
 | 2014 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/c2275b572ec49684dc532efc606c5f6b264581f346379559e72ec2137c1ecb1d.m3u8> |
 | 2015 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/f3e4792919e603bd0eb00254eb263931dbab92a22578853745d8dbe977714338.m3u8> |
 
-Updated at **Mon Aug 25 2025 10:18:23 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Aug 25 2025 12:34:40 GMT+0000 (Coordinated Universal Time)**
