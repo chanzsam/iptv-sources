@@ -1981,4 +1981,4 @@
 | 1975 | [BD]龙华日韩 | stream1.freetv.fun | <https://stream1.freetv.fun/9c2920df490df6a08c307894de50ccb79ac68fb82eebf6b8d6e8f2b1a3dc3509.m3u8> |
 | 1976 | [BD]龙华洋片 | stream1.freetv.fun | <https://stream1.freetv.fun/f9e4358bb09913f4e5f1c09e2d6e50458024d9eacf3e2d274516bb85955a0a07.ctv> |
 
-Updated at **Wed Sep 03 2025 14:15:36 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Sep 03 2025 16:18:35 GMT+0000 (Coordinated Universal Time)**
