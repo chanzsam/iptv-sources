@@ -2268,15 +2268,7 @@ Test,#genre#
 
 其它,#genre#
 [BD]云南卫视,https://epg.pw/stream/368e59cc43274d4c5380dfd940d1f40ee03a4b9cb5b1648b01c42b47f2516d8b.ctv
-央视频道,#genre#
-CCTV4,http://125.125.236.53:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13,http://125.125.236.53:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 
-卫视频道,#genre#
-东南卫视,http://125.125.236.53:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-云南卫视,http://125.125.236.53:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视,http://125.125.236.53:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-旅游卫视,http://125.125.236.53:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
 央视频道,#genre#
 CCTV-1综合,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
 CCTV-2财经,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?
