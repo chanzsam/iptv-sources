@@ -24,4 +24,4 @@
 | 18 | 河南电视剧 | IPv4 直链 | <http://182.114.48.220:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 19 | 河南都市报道 | IPv4 直链 | <http://182.114.48.220:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Tue Dec 02 2025 22:14:43 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Dec 03 2025 01:18:10 GMT+0000 (Coordinated Universal Time)**
