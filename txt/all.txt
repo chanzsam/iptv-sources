@@ -1130,7 +1130,7 @@ News,#genre#
 [BD]cnn_fast,https://stream1.freetv.fun/f5f6b06390027910a4a12cc038116d20b51ff9d440317ad659be3c1a65b5b294.m3u8
 [HD]cnn,https://stream1.freetv.fun/2224f39d377336d871b4da8aa0913f14c75adf5a779ffa185400506603db0374.m3u8
 [HD]cnbc_indonesia,https://stream1.freetv.fun/b7504f81faa1e8bae2bbcca7ab03af5fad3eb2c80751cde2f60276015df26c24.m3u8
-[BD]clan_internacional,https://stream1.freetv.fun/4df23ababe175be481821daa3ec78eb969a74d6f744820834e5b7e5070845c0c.m3u8
+[BD]tastemade_international,https://stream1.freetv.fun/d4c24925ab2179429f3c11df700c378960303499f0ce46f96d717d20b88f0023.m3u8
 [BD]beyblade_en_español,https://stream1.freetv.fun/b9584fadd84b44b29d1b787b02070ae7f4859696e35012637ccfbfd31e1c2bd6.m3u8
 [HD]ช่อง_cp_24,https://stream1.freetv.fun/2f324b89d86a3e61cf4d40a7a0f52a497e9fa81068ad53e30bb7e3b5f837fcf2.m3u8
 [HD]ช่อง_ctv_drama_channel,https://stream1.freetv.fun/7034d3f97cda84bfa229be885fe38edba0d4f78eb92517e8eb8a4069d41ad88c.m3u8
@@ -1233,7 +1233,7 @@ News,#genre#
 [BD]vice_tv,https://stream1.freetv.fun/3fbf2faf165dac5b1e41ce36d51b76c458e8cdc532c822badf61eb3845caf0c1.m3u8
 [HD]wnbc-dt1,https://stream1.freetv.fun/3917cbccbb859eadca6d5d0bddaaf9bd6f5c4b652b00587f1d73540d966ac1b2.m3u8
 [HD]powernation_tv,https://stream1.freetv.fun/7390cbcc32878e0b33ab2eca68135adc8d4a44311283495ee8b7711abcb46d13.m3u8
-[SD]zee_punjabi,https://stream1.freetv.fun/fbd46e978196f66bca254fcf3fa0070c4b5aac870bcafe1482aba5f8c598069f.ctv
+[BD]zee_punjabi,https://stream1.freetv.fun/fbd46e978196f66bca254fcf3fa0070c4b5aac870bcafe1482aba5f8c598069f.ctv
 [BD]zee_news,https://stream1.freetv.fun/0345c17699e2f75310a00d35b289896da086953a0fc5b64620c1b25bf07dda59.m3u8
 [BD]halk_tv,https://stream1.freetv.fun/080077c35aa3e1ebbdca2664f4ce8241f54a7f1c25700200252fa6ed28989758.m3u8
 [BD]i24_news,https://stream1.freetv.fun/de96909c45d359a6503afe6fede3718ca4888f8cc5015cc9dc71c18dfaae9622.m3u8

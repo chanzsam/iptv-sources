@@ -280,7 +280,7 @@
 | 274 | [BD]cnn fast | stream1.freetv.fun | <https://stream1.freetv.fun/f5f6b06390027910a4a12cc038116d20b51ff9d440317ad659be3c1a65b5b294.m3u8> |
 | 275 | [HD]cnn | stream1.freetv.fun | <https://stream1.freetv.fun/2224f39d377336d871b4da8aa0913f14c75adf5a779ffa185400506603db0374.m3u8> |
 | 276 | [HD]cnbc indonesia | stream1.freetv.fun | <https://stream1.freetv.fun/b7504f81faa1e8bae2bbcca7ab03af5fad3eb2c80751cde2f60276015df26c24.m3u8> |
-| 277 | [BD]clan internacional | stream1.freetv.fun | <https://stream1.freetv.fun/4df23ababe175be481821daa3ec78eb969a74d6f744820834e5b7e5070845c0c.m3u8> |
+| 277 | [BD]tastemade international | stream1.freetv.fun | <https://stream1.freetv.fun/d4c24925ab2179429f3c11df700c378960303499f0ce46f96d717d20b88f0023.m3u8> |
 | 278 | [BD]beyblade en español | stream1.freetv.fun | <https://stream1.freetv.fun/b9584fadd84b44b29d1b787b02070ae7f4859696e35012637ccfbfd31e1c2bd6.m3u8> |
 | 279 | [HD]ช่อง cp 24 | stream1.freetv.fun | <https://stream1.freetv.fun/2f324b89d86a3e61cf4d40a7a0f52a497e9fa81068ad53e30bb7e3b5f837fcf2.m3u8> |
 | 280 | [HD]csi | stream1.freetv.fun | <https://stream1.freetv.fun/c2f253c769bba204bd075e3610c8d1ce87c64be7ca4ffb9d31411a8063e78a20.m3u8> |
@@ -1115,7 +1115,7 @@
 | 1109 | [BD]zee cinema | stream1.freetv.fun | <https://stream1.freetv.fun/5a89c3e636a00efc2bf03f8b9b2a01dcede777610062d9ba39db173d9e7d0145.ctv> |
 | 1110 | [BD]zee kannada | stream1.freetv.fun | <https://stream1.freetv.fun/b57fb629dda9d9a5a610ad57a0bab502c9acd0552ba807b78808b45930192274.ctv> |
 | 1111 | [BD]zee marathi | stream1.freetv.fun | <https://stream1.freetv.fun/0603829cdac02f2d2441b15a470badff746dc9aba48f233ffea7669a32f1dcbd.ctv> |
-| 1112 | [SD]zee punjabi | stream1.freetv.fun | <https://stream1.freetv.fun/fbd46e978196f66bca254fcf3fa0070c4b5aac870bcafe1482aba5f8c598069f.ctv> |
+| 1112 | [BD]zee punjabi | stream1.freetv.fun | <https://stream1.freetv.fun/fbd46e978196f66bca254fcf3fa0070c4b5aac870bcafe1482aba5f8c598069f.ctv> |
 | 1113 | [BD]zee tv | stream1.freetv.fun | <https://stream1.freetv.fun/3edc215bf50e8dd4d4096d1fd16b835be06433b69daf11927d8d0ab6f796df54.ctv> |
 | 1114 | [BD]tv zoom | stream1.freetv.fun | <https://stream1.freetv.fun/87f9f3af624b0371e4084d6f6eed0117dbeae0a8925cf7b2724e1db62ae7d964.m3u8> |
 | 1115 | [BD]r bangla | stream1.freetv.fun | <https://stream1.freetv.fun/af419768d5969f44daa3c8e7ceff74dd34d1b53cb780a66045a5d81c35a3f451.m3u8> |
@@ -1600,4 +1600,4 @@
 | 1594 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/c2275b572ec49684dc532efc606c5f6b264581f346379559e72ec2137c1ecb1d.ctv> |
 | 1595 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/d2be8ec62b215362ffd0925ece1643d31aa932df95c5d88516333b5d1e3daebb.m3u8> |
 
-Updated at **Thu Dec 04 2025 20:19:19 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Dec 04 2025 22:14:27 GMT+0000 (Coordinated Universal Time)**
