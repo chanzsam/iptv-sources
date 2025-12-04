@@ -1600,4 +1600,4 @@
 | 1594 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/c2275b572ec49684dc532efc606c5f6b264581f346379559e72ec2137c1ecb1d.ctv> |
 | 1595 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/d2be8ec62b215362ffd0925ece1643d31aa932df95c5d88516333b5d1e3daebb.m3u8> |
 
-Updated at **Thu Dec 04 2025 18:27:34 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Dec 04 2025 20:19:19 GMT+0000 (Coordinated Universal Time)**
