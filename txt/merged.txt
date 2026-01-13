@@ -1860,18 +1860,7 @@ Test,#genre#
 
 其它,#genre#
 [BD]云南卫视,https://epg.pw/stream/368e59cc43274d4c5380dfd940d1f40ee03a4b9cb5b1648b01c42b47f2516d8b.ctv
-央视频道,#genre#
-CCTV1,http://115.48.161.207:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1,http://101.74.28.103:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV11,http://115.48.161.207:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 
-卫视频道,#genre#
-东方卫视,http://115.48.161.207:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视,http://115.48.161.95:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-青海卫视,http://115.48.161.95:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-
-其他频道,#genre#
-灵宝新闻综合,http://115.48.161.95:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 央视频道,#genre#
 CCTV-1综合,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
 CCTV-2财经,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?
