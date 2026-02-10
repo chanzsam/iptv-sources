@@ -1403,7 +1403,7 @@ Test,#genre#
 [VGA]自贡综合,https://stream1.freetv.fun/30bbe056fa29fb344a4659b2aaf2e70b4a3d8ee105a4a19cfc419e6c3fd2461c.m3u8
 [SD]西藏卫视,https://stream1.freetv.fun/0520182fdda930a14ef73fa2ed6221ba95c6ae2ddffa8c93f4b08562ea71c777.m3u8
 [BD]贵州卫视,https://stream1.freetv.fun/363e4472ad7d6a9c376cb0631a6ebed43ee0af641dae020f8ecbf0acb8430b1b.m3u8
-[HD]中国农林卫视,https://stream1.freetv.fun/3560edca61a3e10ce94bf15bb670a1e422c82696550d5c16de4c7ebab0de304f.ctv
+[VGA]中国农林卫视,https://stream1.freetv.fun/3560edca61a3e10ce94bf15bb670a1e422c82696550d5c16de4c7ebab0de304f.ctv
 [HD]辽宁卫视,https://stream1.freetv.fun/c386d9c7cbbd54acd5c62d1e68d3b89f76f9f7a926691e4ad69397091fe9692c.m3u8
 [HD]邢台综合,https://stream1.freetv.fun/22a727200d94fded7d5071e1fa312eea44c9131f2597e7bf0e6fafbef44071b9.m3u8
 [VGA]重庆卫视,https://stream1.freetv.fun/2af0c7392453c9de383e05a4ae3af9a959fb2ed1172733a27f7b5286bd6be067.ctv
@@ -12626,6 +12626,10 @@ CCTV-16_奥林匹克,rtp://239.3.1.184:8001
 CCTV-17_农业农村,rtp://239.3.1.151:8144
 CGTN英语,rtp://239.3.1.215:4220
 CGTN纪录,rtp://239.3.1.216:4220
+CGTN西语,rtp://239.3.1.217:4220
+CGTN法语,rtp://239.3.1.218:4220
+CGTN阿语,rtp://239.3.1.219:4220
+CGTN俄语,rtp://239.3.1.220:4220
 
 卫视,#genre#
 北京卫视,rtp://239.3.1.22:8001
@@ -12673,6 +12677,7 @@ CGTN纪录,rtp://239.3.1.216:4220
 CCTV-4K,rtp://239.3.1.245:2000
 中国教育,rtp://239.3.1.57:8152
 中国交通,rtp://239.3.1.188:8001
+证券服务,rtp://239.3.1.24:8001
 睛彩竞技,rtp://239.3.1.125:8001
 睛彩篮球,rtp://239.3.1.126:8001
 睛彩青少,rtp://239.3.1.127:8001
