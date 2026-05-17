@@ -9,7 +9,6 @@ Knowledge,#genre#
 
 News,#genre#
 [BD]cartoon_head_tv_4,rtmp://vkvsd278.okcdn.ru/playback/13474169039795?stkn=teYFrlCUVUJIuLZBKQ1ImcQWv_fDnIhMXd5HG4rWpAxwu6JoihJenTZ1DOmwOyyp9gA3ALXtyP7K&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-[BD]k1n0man1a,rtmp://vkvsd176.okcdn.ru/playback/9060843400063?stkn=KV0WGPPXIBbOVVy6l6W5YU70Wrv6I9tZOa9CyCjyDUwntlSO4dtIt72cgu0M-sTWTi7PFHAQj8s&uid=0&sp=uid,sp&sig=vlibqm4nyu
 [BD]黔南,rtmp://tv.qntv.net/channellive/ch1
 [VGA]中天新闻,rtmp://home.aceimage.cn/live/xiangjiaoge-ztxw
 [HD]非凡新闻,rtmp://f13h.mine.nu/sat/tv581
@@ -221,22 +220,7 @@ Kids,#genre#
 
 其它,#genre#
 [BD]云南卫视,https://epg.pw/stream/368e59cc43274d4c5380dfd940d1f40ee03a4b9cb5b1648b01c42b47f2516d8b.ctv
-央视频道,#genre#
-CCTV5,http://125.42.150.192:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10,http://125.42.150.192:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13,http://125.42.150.192:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14,http://125.42.150.192:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 
-卫视频道,#genre#
-东南卫视,http://125.42.150.192:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视,http://125.42.150.192:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://125.42.150.192:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://125.42.150.192:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://125.42.150.192:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-
-其他频道,#genre#
-嘉佳卡通,http://125.42.150.192:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰卡通,http://125.42.150.192:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 央视频道,#genre#
 CCTV-1综合,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
 CCTV-2财经,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?
