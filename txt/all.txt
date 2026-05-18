@@ -29,11 +29,13 @@ Generic,#genre#
 [HD]台视,rtmp://f13h.mine.nu:1935/sat/tv071
 [HD]东森超视,rtmp://f13h.mine.nu/sat/tv331
 [HD]民视,rtmp://f13h.mine.nu/sat/tv051
+[BD]浙江民生休闲高清,https://stream1.freetv.fun/592a161d721e5bcdce56786e9a143e766304854fa6abd343e37f2171f09131cd.ctv
 [HD]纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 [HD]华视,rtmp://f13h.mine.nu/sat/tv111
 
 Movies,#genre#
 [BD]西和综合,rtmp://play.kankanlive.com/live/1659926941626981
+[BD]杭州4影视高清,https://stream1.freetv.fun/63bf9cd966d86ed604f90807e56a0f193481d4d9615ed899f6890d8b2fd78715.ctv
 
 Sports,#genre#
 [HD]рик_и_морти,rtmp://vkvsd228.okcdn.ru/playback/10137229994917?stkn=uF-qcmEstFzJRTk2k_pZQ1gq2MmP1WidLMkrmdavGcLp34x9bzBxhFHTQgs1Xg12RcMkQlS8LY4&uid=0&sp=uid,sp&sig=vlibqm4nyu
@@ -43,3 +45,4 @@ Sports,#genre#
 
 Kids,#genre#
 [BD]cartoon_head_tv_1,rtmp://vkvsd199.okcdn.ru/playback/13508853902259?stkn=sCzWr7_00CelDfuiAhev9Uqe8WKfnXTOzDQ8Lgj6ARgwc6phRiz-pt6i-Yq1NpX8dGGiG28Nd3AA&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+[BD]浙江少儿高清,https://stream1.freetv.fun/e09a9ab384a4ac3caef56d4d4d8106d7e0a0fd2613e528d3e0322ff55c99b08b.ctv

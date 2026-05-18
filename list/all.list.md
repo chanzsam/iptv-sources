@@ -27,12 +27,15 @@
 | 21 | [HD]中视 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv091> |
 | 22 | [HD]内江新闻 | njzb.scnj.tv:1938 | <rtmp://njzb.scnj.tv:1938/live/xwzh_xwzh800> |
 | 23 | [HD]台视 | f13h.mine.nu:1935 | <rtmp://f13h.mine.nu:1935/sat/tv071> |
-| 24 | [HD]东森超视 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv331> |
-| 25 | [HD]民视 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv051> |
-| 26 | [HD]纬来日本 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv771> |
-| 27 | [HD]纬来育乐 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv701> |
-| 28 | [HD]纬来体育 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv721> |
-| 29 | [HD]华视 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv111> |
-| 30 | [HD]非凡新闻 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv581> |
+| 24 | [BD]杭州4影视高清 | stream1.freetv.fun | <https://stream1.freetv.fun/63bf9cd966d86ed604f90807e56a0f193481d4d9615ed899f6890d8b2fd78715.ctv> |
+| 25 | [HD]东森超视 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv331> |
+| 26 | [HD]民视 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv051> |
+| 27 | [BD]浙江少儿高清 | stream1.freetv.fun | <https://stream1.freetv.fun/e09a9ab384a4ac3caef56d4d4d8106d7e0a0fd2613e528d3e0322ff55c99b08b.ctv> |
+| 28 | [BD]浙江民生休闲高清 | stream1.freetv.fun | <https://stream1.freetv.fun/592a161d721e5bcdce56786e9a143e766304854fa6abd343e37f2171f09131cd.ctv> |
+| 29 | [HD]纬来日本 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv771> |
+| 30 | [HD]纬来育乐 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv701> |
+| 31 | [HD]纬来体育 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv721> |
+| 32 | [HD]华视 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv111> |
+| 33 | [HD]非凡新闻 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv581> |
 
-Updated at **Mon May 18 2026 11:47:13 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon May 18 2026 15:21:10 GMT+0000 (Coordinated Universal Time)**
