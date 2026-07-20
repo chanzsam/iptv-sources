@@ -1,6 +1,6 @@
-# List for **joevess/IPTV iptv**(Rollback)
+# List for **joevess/IPTV home**(Rollback)
 
-> M3U: [j_iptv.m3u](/j_iptv.m3u), TXT: [j_iptv.txt](/txt/j_iptv.txt)
+> M3U: [j_home.m3u](/j_home.m3u), TXT: [j_home.txt](/txt/j_home.txt)
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
